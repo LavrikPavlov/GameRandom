@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSjBgdG07kQkz2EmgwH4DUFc/R/S/AkG+FS+9quaySmgdBtgMxBYr7NQijhunQqHCPnJdNkybqRw7hgm7uFYoA==",
+  "success": true,
+  "projectFilePath": "D:\\Основные документы\\itProger\\Домашнии задания\\GameRandom\\GameRandom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

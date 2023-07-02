@@ -1,0 +1,15 @@
+D:\Основные документы\itProger\Домашнии задания\GameRandom\bin\Debug\net6.0\GameRandom.exe
+D:\Основные документы\itProger\Домашнии задания\GameRandom\bin\Debug\net6.0\GameRandom.deps.json
+D:\Основные документы\itProger\Домашнии задания\GameRandom\bin\Debug\net6.0\GameRandom.runtimeconfig.json
+D:\Основные документы\itProger\Домашнии задания\GameRandom\bin\Debug\net6.0\GameRandom.dll
+D:\Основные документы\itProger\Домашнии задания\GameRandom\bin\Debug\net6.0\GameRandom.pdb
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\GameRandom.csproj.AssemblyReference.cache
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\GameRandom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\GameRandom.AssemblyInfoInputs.cache
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\GameRandom.AssemblyInfo.cs
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\GameRandom.csproj.CoreCompileInputs.cache
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\GameRandom.dll
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\refint\GameRandom.dll
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\GameRandom.pdb
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\GameRandom.genruntimeconfig.cache
+D:\Основные документы\itProger\Домашнии задания\GameRandom\obj\Debug\net6.0\ref\GameRandom.dll
